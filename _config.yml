@@ -31,13 +31,13 @@ author:
   email            : "pthapa2@crimson.ua.edu" 
 
   # Academic websites
-  Scopus Author ID  : "https://www.scopus.com/authid/detail.uri?authorId=57226299643"
-  Googlescholar    : "https://scholar.google.com/citations?user=6U3EubEAAAAJ&hl=en"
-  LinkedIn      : "https://www.linkedin.com/in/pawan-thapa-916aa360/"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-4331-5315l"
-  Youtube        : "https://www.youtube.com/channel/UC_vjUMpU3Ca5XcbBVanBCnA"
-  Blogger          : "https://www.blogger.com/blog/posts/4734384758171839741"
-  Researchgate     : "https://www.researchgate.net/profile/Pawan-Thapa-2"
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  impactstory      : # URL
+  orcid            : "http://orcid.org/yourorcidurl"
+  semantic         : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
           
 
   # Repositories and software development
