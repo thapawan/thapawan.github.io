@@ -7,19 +7,18 @@ venue: "Kathmandu University, Department of Geomatics Engineering, Department of
 date: 2019-11-01
 location: "Dhulikhel, Nepal"
 ---
-
 Courses
 ======
-GEOI 509: Spatial Data Infrastructure	(G)	2022-.
-LAMP 504: Database and Geoinformation Modelling for Land Administration	(G)	2020-.
-EGPG 600: Problem Assessment Project	(G)	2021-.
-GEOM 410: Final Independent Project	(UG)	2019-.
-GEOM 310: Cadastre	(UG)	2020-.
-LAMP 203: Field Survey I	(UG)	2020-.
-GEOM 303: Engineering and Construction Survey	(UG)	2021-.
-GEOM 304: Field Surveys II	(UG)	2019-.
-ENVE 209: Engineering and Environment Survey	(UG)	2020-.
-GEOM 314: Engineering Project VI	(UG)	2021-.
+GEOI 509: Spatial Data Infrastructure	(G)	2022.
+LAMP 504: Database and Geoinformation Modelling for Land Administration	(G)	2020.
+EGPG 600: Problem Assessment Project	(G)	2021.
+GEOM 410: Final Independent Project	(UG)	2019.
+GEOM 310: Cadastre	(UG)	2020.
+LAMP 203: Field Survey I	(UG)	2020.
+GEOM 303: Engineering and Construction Survey	(UG)	2021.
+GEOM 304: Field Surveys II	(UG)	2019.
+ENVE 209: Engineering and Environment Survey	(UG)	2020.
+GEOM 314: Engineering Project VI	(UG)	2021.
 
 Supervision
 ======
