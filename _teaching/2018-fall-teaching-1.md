@@ -7,13 +7,10 @@ venue: "Banepa Polytechnic Institute, Department of Geomatics Engineering"
 date: 2018-01-01
 location: "Banepa, Nepal"
 ---
-
-
-Survey Computation and Adjustment
+Courses
 ======
+EG3105GE: Survey Project Management	(D)	2019.
+EG3102GE: Photogrammetry	(D)	2018.
+EG2205GE: Survey Computation and Adjustment	(D)	2017.
 
-Photogrammetry
-======
 
-Survey management
-======
