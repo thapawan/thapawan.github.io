@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture.jpg"
+  avatar           : "profile1.png"
   name             : "Pawan Thapa"
   pronouns         : # example: "he/him"  
   bio              : "Geomorphology, Remote Sensing, GIS, Climate Change, Ecology"
