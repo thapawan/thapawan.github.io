@@ -14,7 +14,7 @@ redirect_from:
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/pawan-thapa-916aa360)
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-green)](https://www.researchgate.net/profile/Pawan-Thapa-2)
 
-I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/) in the [Department of Geography](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research focuses on geographic information science (GIS), remote sensing, machine learning, and deep learning explicitly applying analysis, mapping, and modeling of rivers for width, centerline, direction, and discharge to estimate flood, Erosion and Ecosystem. 
+I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/) in the [Department of Geography and the Environment](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research focuses on geographic information science (GIS), remote sensing, machine learning, and deep learning explicitly applying analysis, mapping, and modeling of rivers for width, centerline, direction, and discharge to estimate flood, Erosion and Ecosystem. 
 
 ### Featured Projects
 - [Phase Coded Disk Approach](https://github.com/thapawan/PhaseCodedDisk)
