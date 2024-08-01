@@ -49,13 +49,7 @@ Work experience
     
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-* ### Programming Language Proficiency
+### Programming Language Proficiency
 - [Python](https://docs.python.org/3/library/idle.html)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 - [R](https://www.youtube.com/watch?v=5R4ZZ7VS3Y4&list=PLlli8a9TMODya3TySdquBTJUt_v50MGpM)
@@ -90,7 +84,6 @@ Skills
 - [HYCAT]()
 - [Hand-held Spectroradiometer]()
   
-
 ### Licenses
 - [Unmmaned Aerial Vehicle](https://www.faa.gov/uas/commercial_operators/become_a_drone_pilot?fbclid=IwAR0-STBnQ0JtqnnGlw9yiq2x9YSVCaM-BIyqjOnChk40aIndjBGCLvQEkKg#ech)
 - [Vessel](https://www.boat-ed.com/alabama/)
