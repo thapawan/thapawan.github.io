@@ -109,18 +109,18 @@ Teaching
   
 Awards
 ======
-1)	HydroLearn Fellowship ($5000) for participating in the CIROH Development Conference and HydroLearn in-person events in Salt Lake City, UT, May 29 – June 1, 2024 
-2)	Shortlisted for AAG Remote Sensing Specialty Group Student Illustrated Paper Competition
-3)	Received Graduate award for AGU Annual Meeting, 2023, Conference and Research Funding: Approved ($500) and Department travel fund for fall 2023 ($500).
-4)	Received Graduate Research Funding ($8000) from the NASA project for the summer from May 16 to August 15, 2023 (Project no: GR29315 & GR29415).
-5)	Received Graduate award for AAG Annual Meeting, 2023, Conference and Research Funding: Approved ($500) and College grad travel for spring 2023 ($150).
-6)	Best Presentation on Management of Training (MoT) education-training seminars seven sessions, Kathmandu University School of Management (KUSoM), Balkumari, Lalitpur, Nepal (25th March to 1st April 2022).
-7)	International Federation of Surveyors Awarded for the 6th FIG Young Surveyors Conference and 2021 FIG Working Week. 
-8)	Centre for International Migration and Development Awarded for Returning Expert Jun 2020-Jun 2022
-9)	DAAD Graduation Support 2017 Awarded for Dissertation entitled: “Vulnerability Assessment of Indigenous Communities to Climate Change in Nepal.” 
-10)	The University of Twente, 2016 International Training Center, Enschede, Netherlands, awarded Erasmus Exchange Student Membership References.
-11)	Government of Nepal Award by the Land Management Training Center for Bachelor of Engineering, 2012.
-12)	Community Scholarship Awarded by the community of Bakhundole, Dhulikhel, for Bachelor Study 2009.
+1.	HydroLearn Fellowship ($5000) for participating in the CIROH Development Conference and HydroLearn in-person events in Salt Lake City, UT, May 29 – June 1, 2024 
+2.	Shortlisted for AAG Remote Sensing Specialty Group Student Illustrated Paper Competition
+3.	Received Graduate award for AGU Annual Meeting, 2023, Conference and Research Funding: Approved ($500) and Department travel fund for fall 2023 ($500).
+4.	Received Graduate Research Funding ($8000) from the NASA project for the summer from May 16 to August 15, 2023 (Project no: GR29315 & GR29415).
+5.	Received Graduate award for AAG Annual Meeting, 2023, Conference and Research Funding: Approved ($500) and College grad travel for spring 2023 ($150).
+6.	Best Presentation on Management of Training (MoT) education-training seminars seven sessions, Kathmandu University School of Management (KUSoM), Balkumari, Lalitpur, Nepal (25th March to 1st April 2022).
+7.	International Federation of Surveyors Awarded for the 6th FIG Young Surveyors Conference and 2021 FIG Working Week. 
+8.	Centre for International Migration and Development Awarded for Returning Expert Jun 2020-Jun 2022
+9.	DAAD Graduation Support 2017 Awarded for Dissertation entitled: “Vulnerability Assessment of Indigenous Communities to Climate Change in Nepal.” 
+10.	The University of Twente, 2016 International Training Center, Enschede, Netherlands, awarded Erasmus Exchange Student Membership References.
+11.	Government of Nepal Award by the Land Management Training Center for Bachelor of Engineering, 2012.
+12.	Community Scholarship Awarded by the community of Bakhundole, Dhulikhel, for Bachelor Study 2009.
 
 Memberships
 ======
