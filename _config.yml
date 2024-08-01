@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Profile2.jpg"
-  name             : "Pawan Thapa"
+  name             : #"Pawan Thapa"
   pronouns         : # example: "he/him"  
   bio              : "Geomorphology, Remote Sensing, GIS, Climate Change, Ecology"
   location         : "Alabama"
