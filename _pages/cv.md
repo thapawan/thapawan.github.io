@@ -109,7 +109,6 @@ Teaching
   
 Awards
 ======
- 
 1)	HydroLearn Fellowship ($5000) for participating in the CIROH Development Conference and HydroLearn in-person events in Salt Lake City, UT, May 29 – June 1, 2024 
 2)	Shortlisted for AAG Remote Sensing Specialty Group Student Illustrated Paper Competition
 3)	Received Graduate award for AGU Annual Meeting, 2023, Conference and Research Funding: Approved ($500) and Department travel fund for fall 2023 ($500).
