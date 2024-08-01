@@ -17,21 +17,30 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
+* Aug 2022: PhD Candidate
+  * University of Alabama
+  * Graduate Teaching Assistant (Aug 2022- Currently): Instruct GY 101:Atmospheric Processes & Patterns, GIS, GY 102:Earth Surface Processes, Remote Sensing
+  * Research: Geomorphology, Remote Sensing, GIS, Climate Change, Ecology
+  * Supervisor: Dr. Lisa Davis
+    
+* Summer 2024: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
+* Summer 2022: Graduate Research Assistant
+  * University of Alabama
+  * Duties included: conduct lake and river surveys to collect water quality, bathymetry and flow data using ADCP, YSI multiparameter sonde, ASD spectrometer, and HyCAT autonomous surface vehicle, fly drones to collect lake and river multispectral and hyper spectral data, archive and processing field and drone data, develop and test algorithms and software tools to processing remote sensing and field data, assist to prepare and write research reports and manuscripts
+  * Supervisor: Dr. Hongxing Liu
+
+  * Aug 2022: PhD Candidate
+  * University of Alabama
+  * Graduate Teaching Assistant (Aug 2022- Currently): Instruct GY 101:Atmospheric Processes & Patterns, GIS, GY 102:Earth Surface Processes, Remote Sensing
+  * Research: Geomorphology, Remote Sensing, GIS, Climate Change, Ecology
+  * Supervisor: Dr. Lisa Davis
+    
+
+
 Skills
 ======
 * Skill 1
