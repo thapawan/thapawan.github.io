@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience 3"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lab Instruction"
+permalink: /teaching/2022-fall-teaching-3
+venue: "University of Alabama, Department of Geography and the Environment"
+date: 2022-08-10
+location: "Tuscaloosa, USA"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Courses
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+GY101:Atmospheric Processes & Patterns
+GY102:Earth Surface Processes
