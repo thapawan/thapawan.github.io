@@ -107,42 +107,41 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-HONOURS: ACADEMIC, SCHOLARLY, AND PROFESSIONAL
+Awards
 ======
-1.	Received Graduate Award for AGU Annual Meeting, 2023, Conference and Research Funding: Approved ($500) and Department travel fund for Fall 2023 ($500).
-2.	Received Graduate Research Funding for summer, May 16 to Aug 15, 2023, from NASA project (GR29315 & GR29415).
-3.	Received Graduate Award for AAG Annual Meeting, 2023, Conference and Research Funding: Approved ($500) and College grad travel for spring 2023 ($150).
-4.	Best Presentation on Management of Training (MoT) education-training seminars seven sessions, Kathmandu University School of Management (KUSoM), Balkumari, Lalitpur, Nepal (25th March to 1st April, 2022).
-5.	International Federation of Surveyors, Awarded for 6th FIG Young Surveyors Conference and 2021 FIG Working Week. Centre for International Migration and Development, May 2021.
-6.	Awarded for Returning Expert, Center for International Migration and Development (CIM), June 2020
-7.	DAAD Graduation Support, German Foreign Office Funds, Awarded for Dissertation entitled: “Vulnerability Assessment of Indigenous Communities to Climate Change in Nepal”, August 2016. 
-8.	Erasmus Exchange Student, International Training Center, Enschede, the Netherlands, May 2016. 
+ 
+1)	HydroLearn Fellowship ($5000) for participating in the CIROH Development Conference and HydroLearn in-person events in Salt Lake City, UT, May 29 – June 1, 2024 
+2)	Shortlisted for AAG Remote Sensing Specialty Group Student Illustrated Paper Competition
+3)	Received Graduate award for AGU Annual Meeting, 2023, Conference and Research Funding: Approved ($500) and Department travel fund for fall 2023 ($500).
+4)	Received Graduate Research Funding ($8000) from the NASA project for the summer from May 16 to August 15, 2023 (Project no: GR29315 & GR29415).
+5)	Received Graduate award for AAG Annual Meeting, 2023, Conference and Research Funding: Approved ($500) and College grad travel for spring 2023 ($150).
+6)	Best Presentation on Management of Training (MoT) education-training seminars seven sessions, Kathmandu University School of Management (KUSoM), Balkumari, Lalitpur, Nepal (25th March to 1st April 2022).
+7)	International Federation of Surveyors Awarded for the 6th FIG Young Surveyors Conference and 2021 FIG Working Week. 
+8)	Centre for International Migration and Development Awarded for Returning Expert Jun 2020-Jun 2022
+9)	DAAD Graduation Support 2017 Awarded for Dissertation entitled: “Vulnerability Assessment of Indigenous Communities to Climate Change in Nepal.” 
+10)	The University of Twente, 2016 International Training Center, Enschede, Netherlands, awarded Erasmus Exchange Student Membership References.
+11)	Government of Nepal Award by the Land Management Training Center for Bachelor of Engineering, 2012.
+12)	Community Scholarship Awarded by the community of Bakhundole, Dhulikhel, for Bachelor Study 2009.
 
-SOCIETY AFFILIATIONS/LICENSES
+Memberships
 ======
-1.	General Member of American Geophysical Union (AGU), June 2023.
-2.	Developing Regional Member and Specialty Group of American Associations of Geographers (AAG), Dec 1, 2022.
-3.	Member of the Diversity, Equity, and Inclusion (DEI) Committee, 2022-2023.
-4.	Affiliated Member of Alabama Water Institute, 2022-2023.
-5.	Lifetime member of Nepal Engineers Association (NEA), Sept 2013.
-6.	Member of Nepal Engineering Council (NEC), 2013.
-7.	Individual member of the International Society for Photogrammetry and Remote Sensing (ISPRS). Editorial Broad member of Global Scientific Journals (GSJ). 
-8.	Editorial Broad member of International European Extended Enablement in Science, Engineering & Management (IEE SEM). 
-9.	Reviewer of International Journal of Scientific and Engineering Research (IJSER). Reviewer of Journal of Geographic Information System (JGIS). 
-10.	Reviewer of Journal of Environmental Systems Research (ESR). 
-11.	Guest Reviewer of International Journal of Environment and Geoinformatics (IJEG) and Review of the Behavioral Aspect in Organizations and Society. 
-12.	Student Representative for Geomatics Engineering study (2010-2012) 
-13.	Vice president in Student Council during Bachelor study, 2010-2013.
-14.	Scientific Committee Member of the International Scientific Council (ISC).
+1.  Member of Phi Sigma Theta National Honor Society, Feb 2024.
+2.	General Member of American Geophysical Union (AGU), June 2023.
+3.	Developing Regional Member and Specialty Group of American Associations of Geographers (AAG), Dec 1, 2022-2024.
+4.	Member of the Diversity, Equity, and Inclusion (DEI) Committee, 2022-2023.
+5.	Affiliated Member of Alabama Water Institute, 2022.
+6.	Lifetime member of Nepal Engineers Association (NEA), Sept 2013.
+7.	Member of Nepal Engineering Council (NEC), 2013.
+8.	Individual member of the International Society for Photogrammetry and Remote Sensing (ISPRS). Editorial Broad member of Global Scientific Journals (GSJ). 
+9.	Editorial Broad member of International European Extended Enablement in Science, Engineering & Management (IEE SEM). 
+10.	Reviewer of International Journal of Scientific and Engineering Research (IJSER). Reviewer of Journal of Geographic Information System (JGIS). 
+11.	Reviewer of Journal of Environmental Systems Research (ESR). 
+12.	Guest Reviewer of International Journal of Environment and Geoinformatics (IJEG) and Review of the Behavioral Aspect in Organizations and Society. 
+13.	Student Representative for Geomatics Engineering study (2010-2012) 
+14.	Vice president in Student Council during Bachelor study, 2010-2013.
+15.	Scientific Committee Member of the International Scientific Council (ISC).
 
-Research Press
-=====
-1.	Thapa P, A Story Map of Landslides in Sindhupalanchok (under process) 
-2.	Thapa P, A concept paper on Application of Geospatial Technologies for analyzing the impact of COVID 19. 
-3.	Thapa P, A Short Communication on agent-based modeling approach applied to the spread of cholera (under submission).
-4.	Thapa P, Coronavirus Dashboard for Nepal in R (Submitted to GeoJoint, 2020).
-
-CERTIFICATIONS
+Certifications
 =====
 1.	Java Programming: Solving Problems with Software, Duke University, Aug 2020 (Online).
 2.	Cloud Computing Basics (Cloud 101), Learn Quest, Aug 2020 (Online).
