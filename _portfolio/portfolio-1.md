@@ -1,6 +1,6 @@
 ---
 title: "Training Drones"
-excerpt: "Teach how to fly drones<br/><img src='/images/Drone.jpg'>"
+excerpt: "Demonstrate how to fly drones in GIS day<br/><img src='/images/Drone.jpg'>"
 collection: portfolio
 ---
 
