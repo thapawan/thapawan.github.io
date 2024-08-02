@@ -43,9 +43,9 @@ Work experience
   * Teaching: GIS, Remote Sensing, Photogrammetry, Survey Project Management, Survey Computation and Adjustment, Field Survey
   * Research: Remote Sensing, GIS, Climate Change
 
-  * Nov 2016 - Oct 2016: Traine
+* Nov 2016 - Oct 2016: Traine
   * International Training Center, Enschede, The Netherlands
-  * Research: Land Use, Web GIS, Mobile GIS, Remote Sensing, Climate Change
+  * Research: Land Use, Web GIS, Mobile GIS, Remote Sensing, Climate Change and Adaptation
     
 Skills
 ======
