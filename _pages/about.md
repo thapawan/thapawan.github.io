@@ -12,6 +12,7 @@ redirect_from:
 [![Website Badge](https://img.shields.io/badge/Personal-Website-green)](https://thapawan.github.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/pawan-thapa-916aa360)
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-green)](https://www.researchgate.net/profile/Pawan-Thapa-2)
+[![ScientificIndex Badge](https://img.shields.io/badge/AD-ScientificIndex-blue)](https://www.adscientificindex.com/scientist/pawan-thapa/4485523)
 
 I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/) in the [Department of Geography and the Environment](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research focuses on geographic information science (GIS), remote sensing, machine learning, and deep learning explicitly applying analysis, mapping, and modeling of rivers for width, centerline, direction, and discharge to estimate flood, Erosion and Ecosystem. 
 
