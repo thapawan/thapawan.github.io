@@ -30,6 +30,12 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 - [Python](https://docs.python.org/3/library/idle.html)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 - [R](https://www.youtube.com/watch?v=5R4ZZ7VS3Y4&list=PLlli8a9TMODya3TySdquBTJUt_v50MGpM)
+
+### Conferences
+ - [Conferences](https://github.com/thapawan/thapawan/blob/main/Conferences)
+
+### Awards
+ - [Awards](https://github.com/thapawan/thapawan/blob/main/Awards)
   
 ### Softwares
 - [ArcGIS](https://www.youtube.com/watch?v=RtqLmo3qRuA&t=76s)
