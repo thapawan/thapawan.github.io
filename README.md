@@ -8,7 +8,7 @@
 
 I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/) in the [Department of Geography and the Environment](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research focuses on geographic information science (GIS), remote sensing, machine learning, and deep learning explicitly applying analysis, mapping, and modeling of rivers for width, centerline, direction, and discharge to estimate flood, erosion and ecosystem.
 
-##Training, workshop, and conference:
+# Training, workshop, and conference:
 1.	IEEE GRSS Student and Young Professionals Summit, Virtual Oct 29, 2024
 2.	Participating in the AAG GISS Paper Competition 2025
 3.	Presenting AAG Annual Meeting 2025, March 24-28, Detriot, Michigan
