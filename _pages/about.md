@@ -33,6 +33,9 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 
 ### Conferences
  - [Conferences](https://github.com/thapawan/thapawan/blob/main/Conferences)
+   
+### Courses
+ - [HYDROLEARN](https://apps.edx.hydrolearn.org/learning/course/coursev1:JacksonStateUniversity_UniversityofAlabama+CE101+2024/home)
 
 ### Awards
  - [Awards](https://github.com/thapawan/thapawan/blob/main/Awards)
