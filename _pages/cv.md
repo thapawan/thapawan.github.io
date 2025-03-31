@@ -20,15 +20,14 @@ Work experience
 * Aug 2022: PhD Candidate
   * University of Alabama
   * Graduate Teaching Assistant (Aug 2022- Currently): Instruct GY 101:Atmospheric Processes & Patterns, GIS, GY 102:Earth Surface Processes, Remote Sensing
-  * Research: Geomorphology, Remote Sensing, GIS, Climate Change, Ecology
+  * Research: River Meander Classification and Detection, Geomorphology, Remote Sensing, GIS, Machine Learning, Deep Learning, Flood Risk
   * Supervisor: Dr. Lisa Davis
     
 * Summer 2024: Graduate Teaching Assistant
   * University of Alabama
   * Duties included: Teach Lab of GY102:Earth Surface Processes
     
-  
-* Summer 2022: Graduate Research Assistant
+* Summer 2023: Graduate Research Assistant
   * University of Alabama
   * Duties included: conduct lake and river surveys to collect water quality, bathymetry and flow data using ADCP, YSI multiparameter sonde, ASD spectrometer, and HyCAT autonomous surface vehicle, fly drones to collect lake and river multispectral and hyper spectral data, archive and processing field and drone data, develop and test algorithms and software tools to processing remote sensing and field data, assist to prepare and write research reports and manuscripts
   * Supervisor: Dr. Hongxing Liu
@@ -36,16 +35,16 @@ Work experience
 * Nov 2019 - Jul 2022: Lecturer
   * Kathmandu University
   * Teaching: Cadastre, Engineering and Construction Survey, Spatial Data Infrastructure, Database and Geoinformation Modelling for Land Administration, Problem Assessment Project, Final Independent Project, Engineering Project, Field Survey
-  * Research: Remote Sensing, GIS, Climate Change, Geoinformatics
+  * Research: Remote Sensing, GIS, Geoinformatics, Geomatics Engineering
 
 * Nov 2018 - Nov 2019: Head of Department
   * Nepal Banepa Polytechnic Institute
   * Teaching: GIS, Remote Sensing, Photogrammetry, Survey Project Management, Survey Computation and Adjustment, Field Survey
-  * Research: Remote Sensing, GIS, Climate Change
+  * Research: Remote Sensing, GIS, Geomatics Engineering
 
 * Nov 2016 - Oct 2016: Traine
   * International Training Center, Enschede, The Netherlands
-  * Research: Land Use, Web GIS, Mobile GIS, Remote Sensing, Climate Change and Adaptation
+  * Research: Land Use, Web GIS, Mobile GIS, Remote Sensing, Geoinformatics
     
 Skills
 ======
@@ -109,18 +108,23 @@ Teaching
   
 Awards
 ======
-1.	HydroLearn Fellowship ($5000) for participating in the CIROH Development Conference and HydroLearn in-person events in Salt Lake City, UT, May 29 – June 1, 2024 
-2.	Shortlisted for AAG Remote Sensing Specialty Group Student Illustrated Paper Competition
-3.	Received Graduate award for AGU Annual Meeting, 2023, Conference and Research Funding: Approved ($500) and Department travel fund for fall 2023 ($500).
-4.	Received Graduate Research Funding ($8000) from the NASA project for the summer from May 16 to August 15, 2023 (Project no: GR29315 & GR29415).
-5.	Received Graduate award for AAG Annual Meeting, 2023, Conference and Research Funding: Approved ($500) and College grad travel for spring 2023 ($150).
-6.	Best Presentation on Management of Training (MoT) education-training seminars seven sessions, Kathmandu University School of Management (KUSoM), Balkumari, Lalitpur, Nepal (25th March to 1st April 2022).
-7.	International Federation of Surveyors Awarded for the 6th FIG Young Surveyors Conference and 2021 FIG Working Week. 
-8.	Centre for International Migration and Development Awarded for Returning Expert Jun 2020-Jun 2022
-9.	DAAD Graduation Support 2017 Awarded for Dissertation entitled: “Vulnerability Assessment of Indigenous Communities to Climate Change in Nepal.” 
-10.	The University of Twente, 2016 International Training Center, Enschede, Netherlands, awarded Erasmus Exchange Student Membership References.
-11.	Government of Nepal Award by the Land Management Training Center for Bachelor of Engineering, 2012.
-12.	Community Scholarship Awarded by the community of Bakhundole, Dhulikhel, for Bachelor Study 2009.
+1.	Received Graduate award for AGU Annual Meeting ($1000), 2025, Conference and Research Funding, and College grad travel for Fall 2025. 
+2.	Received Graduate award for AAG Annual Meeting ($1000), 2025, Conference and Research Funding, and College grad travel for spring 2025. 
+3.	Finalist ($200) GISS Student Honors Paper Competition 2025, at AAG Annual Meeting 2025
+https://aag.secure-platform.com/aag2025/solicitations/82/sessiongallery/schedule/items/22823
+4.	HydroLearn Fellowship ($5000) for participating in the CIROH Development Conference and HydroLearn in-person events in Salt Lake City, UT, May 29 – June 1, 2024 
+5.	Shortlisted for AAG Remote Sensing Specialty Group Student Illustrated Paper Competition
+6.	Applied for the 2025 GSAG Travel Award Application, AAG Annual Meeting 2025
+7.	Received Graduate Research Funding for summer, May 16 to Aug 15, 2023, from NASA 
+8.	project (GR29315 & GR29415). 
+9.	Received Graduate award for AAG Annual Meeting ($1000), 2023, Conference and Research Funding: Approved and College grad travel for spring 2023. 
+10.	Best Presentation on Management of Training (MoT) education-training seminars seven sessions, Kathmandu University School of Management (KUSoM), Balkumari, Lalitpur, Nepal (25th March to 1st April 2022). 
+11.	International Federation of Surveyors Awarded for the 6th FIG Young Surveyors Conference and 2021 FIG Working Week.  
+12.	Centre for International Migration and Development Awarded for Returning Expert Jun 2020-Jun 2022 
+13.	DAAD Graduation Support 2017 Awarded for Dissertation entitled: “Vulnerability Assessment of Indigenous Communities to Climate Change in Nepal.”  
+14.	Erasmus Exchange Student Memberships References awarded by the University of Twente, 2016 International Training Center, Enschede, Netherlands. 
+15.	Government of Nepal Award by the Land Management Training Center for Bachelor of Engineering, 2012. 
+16.	Community Scholarship Awarded by the community of Bakhundole, Dhulikhel, for Bachelor Study 2009. 
 
 Memberships
 ======
