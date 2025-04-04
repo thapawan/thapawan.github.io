@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# 👋 Hello, I'm Pawan Thapa!
-
 [![GitHub Badge](https://img.shields.io/github/followers/thapawan?style=social)](https://github.com/thapawan?tab=followers)
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=6U3EubEAAAAJ&hl=en)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pawan-thapa-916aa360)
