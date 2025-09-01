@@ -7,5 +7,5 @@ date: 2025-9-15
 venue: 'Earth Surface Processes and Landforms.'
 abstracturl: ''
 paperurl: ''
-citation: 'Thapa, P., et al. (2025). &quot;Enhanced River Planform Analysis Using Deep Learning and Medial Axis Transform with Sentinel 1A Imagery.&quot; <i>Conference proceedings for IEEE Region 10 Symposium 2025</i>. 1(1).'
+citation: 'Thapa, P., et al. (2025). &quot;Enhanced River Planform Analysis Using Deep Learning and Medial Axis Transform with Sentinel 1A Imagery.&quot; <i>CEarth Surface Processes and Landforms.</i>. 1(1).'
 ---
