@@ -1,10 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+# Welcome
 
 # Basic Site Settings
 locale                   : "en-US"
@@ -27,7 +21,7 @@ author:
   bio              : "Geomorphology, Remote Sensing, Geoinformatics, GIS, Geomatics Engineering"
   location         : "Alabama"
   employer         : "University of Alabama"
-  uri              : # URL "https://geography.ua.edu/graduate-student/thapa-pawan/"
+  uri              : "https://geography.ua.edu/graduate-student/thapa-pawan/"
   email            : "pthapa2@crimson.ua.edu" 
 
   # Academic websites
@@ -43,7 +37,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/thapawan"
+  
   kaggle           : "https://www.kaggle.com/pawanthapa"  
   stackoverflow    : "https://stackoverflow.com/users/4945691/pawan-thapa"   
 
