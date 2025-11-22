@@ -13,6 +13,7 @@ redirect_from:
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-Profile-green)](https://www.researchgate.net/profile/Pawan-Thapa-2)
 [![AD Scientific Index Badge](https://img.shields.io/badge/AD%20Scientific%20Index-Profile-blue)](https://www.adscientificindex.com/scientist/pawan-thapa/4485523)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/channel/UC_vjUMpU3Ca5XcbBVanBCnA)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-344354?style=flat-square&logo=github&logoColor=white)](https://thapawan.github.io/Portfolio/)
 
 ---
 
