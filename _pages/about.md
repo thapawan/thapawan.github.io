@@ -66,7 +66,7 @@ Previously, I had the privilege of lecturing at Kathmandu University, Nepal, and
 
 [![Awards](https://img.shields.io/badge/Awards-🏆-gold)](https://github.com/thapawan/thapawan/blob/main/Awards.md)
 [![Conferences](https://img.shields.io/badge/Conferences-🗣️-blue)](https://github.com/thapawan/thapawan/blob/main/Conferences.md)
-[![Courses](https://img.shields.io/badge/Courses-📚-lightgreen)](https://github.com/thapawan/thapawan/edit/main/Courses.md)
+[![Courses](https://img.shields.io/badge/Courses-📚-lightgreen)](https://github.com/thapawan/thapawan/blob/main/Courses.md)
 [![Software](https://img.shields.io/badge/Software-💻-cyan)](https://github.com/thapawan/thapawan/blob/main/Software.md)
 [![Supervisions](https://img.shields.io/badge/Supervisions-🧑‍🏫-green)](https://github.com/thapawan/thapawan/blob/main/Supervisions.md)
 [![Instruments](https://img.shields.io/badge/Instruments-🛠️-orange)](https://github.com/thapawan/thapawan/blob/main/Instruments.md)
@@ -77,7 +77,4 @@ Previously, I had the privilege of lecturing at Kathmandu University, Nepal, and
 [![Blogs](https://img.shields.io/badge/Blogs-📑-darkgreen)](https://geoinformaticsexpert.blogspot.com/)
 [![Reviewer](https://img.shields.io/badge/Reviewers-🗣️-blue)](https://github.com/thapawan/thapawan/blob/main/Reviewer.md)
 [![Training](https://img.shields.io/badge/Trainings-🧠-lightgrey)](https://github.com/thapawan/thapawan/blob/main/Trainings.md)
-
-
-
 
