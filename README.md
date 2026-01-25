@@ -11,9 +11,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate PhD Candidate at the [Department of Geography and the Environment](https://geography.ua.edu/) at the [University of Alabama](https://www.ua.edu/), focusing on the fascinating intersection of Geographic Information Science (GIS), Remote Sensing, deep learning and Machine Learning. My research explores river dynamics, meander detection and classification, hydrological and hydraulic modeling, flood risk assessment, and environmental modeling, leveraging cutting-edge geospatial technologies.
+I'm a passionate PhD Candidate at the [Department of Geography and the Environment](https://geography.ua.edu/) at the [University of Alabama](https://www.ua.edu/), focusing on the fascinating intersection of Geographic Information Science (GIS), Remote Sensing, deep learning and Machine Learning for understanding fluvial systems. My research explores river dynamics, meander detection and classification, hydrological and hydraulic modeling, flood risk assessment, and environmental modeling, leveraging cutting-edge geospatial technologies.
 
-Previously, I had the privilege of lecturing at Kathmandu University, Nepal, and I hold the distinction of being the first Nepali to earn an M.Sc. in Geoinformatics from the University of Muenster, Germany.
+Previously, I had the privilege of lecturing at Kathmandu University, Nepal, and was first Nepali to earn an M.Sc. in Geoinformatics from the University of Muenster, Germany.
 
 ## 🛠️ My Toolkit
 
