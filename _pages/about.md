@@ -75,6 +75,7 @@ Before starting my PhD, I lectured at Kathmandu University, Nepal. I hold an M.S
 [![Judges](https://img.shields.io/badge/Judges-⚖️-purple)](https://github.com/thapawan/thapawan/blob/main/Judges.md)
 [![Licenses](https://img.shields.io/badge/Licenses-📜-teal)](https://github.com/thapawan/thapawan/blob/main/Licenses.md)
 [![Memberships](https://img.shields.io/badge/Memberships-👥-red)](https://github.com/thapawan/thapawan/tree/main/Membership)
+[![Mentorships](https://img.shields.io/badge/Mentorships-👥-blue)](https://github.com/thapawan/thapawan/blob/main/Mentors_Mentee)
 [![Publications](https://img.shields.io/badge/Publications-📑-darkblue)](https://github.com/thapawan/thapawan/blob/main/Research%20Papers.md)
 [![Blogs](https://img.shields.io/badge/Blogs-📑-darkgreen)](https://geoinformaticsexpert.blogspot.com/)
 [![Reviewer](https://img.shields.io/badge/Reviewers-🗣️-blue)](https://github.com/thapawan/thapawan/blob/main/Reviewer.md)
