@@ -23,7 +23,7 @@ I'm a PhD Candidate at the [Department of Geography and the Environment](https:/
 
 I’m especially interested in automated river planform analysis—including centerline extraction, channel width estimation, and meander classification—using deep learning and Medial Axis Transform–based approaches. I complement image analytics with hydrologic and hydraulic modeling, building decision‑ready geospatial products and flood resilience applications for scientists, agencies, and communities.
 
-Before beginning my Ph.D., I lectured at Kathmandu University (Nepal) and previously served as Head of Department at Nepal Banepa Polytechnic Institute. I hold an M.Sc. in Geoinformatics (University of Münster, Germany) and a B.E. in Geomatics Engineering (Kathmandu University). Across academia and collaborative projects, my goal is to turn complex geospatial data into practical insight that supports risk reduction and resilient planning.
+Before beginning my Ph.D., I lectured at [Kathmandu University](https://ku.edu.np/), Nepal and previously served as Head of Department at [Nepal Banepa Polytechnic Institute](https://nbpi.edu.np/). I hold an M.Sc. in Geoinformatics ([University of Münster](https://www.uni-muenster.de/en/), Germany) and a B.E. in Geomatics Engineering (Kathmandu University). Across academia and collaborative projects, my goal is to turn complex geospatial data into practical insight that supports risk reduction and resilient planning.
 
 ## 🛠️Research Focus
 
