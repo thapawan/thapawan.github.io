@@ -19,7 +19,7 @@ redirect_from:
 
 ## 🚀 About Me
 
-I'm a PhD Candidate at the [Department of Geography and the Environment](https://geography.ua.edu/) at the [University of Alabama](https://www.ua.edu/) (GPA 4.0). I work at the intersection of GIS, remote sensing, surveying, hydrology/geomorphology, and machine learning to understand how rivers evolve through time and how those dynamics affect flood risk, infrastructure, and ecosystems. My research integrates satellite SAR (Sentinel‑1), optical imagery, UAV sensing, DEM‑based terrain analysis, and AI/ML to extract river morphology, model inundation, flood resilience and monitor environmental change.
+I'm a PhD Candidate at the [Department of Geography and the Environment](https://geography.ua.edu/) at the [University of Alabama](https://www.ua.edu/). I work at the intersection of GIS, remote sensing, surveying, hydrology/geomorphology, and machine learning to understand how rivers evolve through time and how those dynamics affect flood risk, infrastructure, and ecosystems. My research integrates satellite SAR (Sentinel‑1), optical imagery, UAV sensing, DEM‑based terrain analysis, and AI/ML to extract river morphology, model inundation, flood resilience and monitor environmental change.
 
 I’m especially interested in automated river planform analysis—including centerline extraction, channel width estimation, and meander classification—using deep learning and Medial Axis Transform–based approaches. I complement image analytics with hydrologic and hydraulic modeling, building decision‑ready geospatial products and flood resilience applications for scientists, agencies, and communities.
 
