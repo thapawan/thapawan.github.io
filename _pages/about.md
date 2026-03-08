@@ -55,7 +55,7 @@ UAV multispectral/hyperspectral acquisitions; ground and boat‑based surveys (A
 - Drone in Hyperspectral Remote Sensing: Techniques and Applications, Geocarto International, 2025.
 - Operational Efficiency and Environmental Impact of UAV‑Based Vaccine Delivery in Remote Areas of Nepal, Next Research, 2025.
 - Book chapters and proceedings spanning flood resilience, UAVs, soil erosion modeling, COVID‑19 decision science, and river morphology
-- **More details:** [Publications](https://img.shields.io/badge/Publications-📑-darkblue).
+- **More:** [Publications](https://img.shields.io/badge/Publications-📑-darkblue)
   
 ## 📂 Teaching & Mentorship
 
@@ -75,7 +75,7 @@ Mentored graduate and undergraduate theses on topics ranging from urban heat isl
 - Outstanding Doctoral Graduate Research Award, Department of Geography & the Environment, UA (2026).
 - NASA/ASU Infiniscope award (interactive virtual field trip, 2025).
 - HydroLearn Fellowship (CIROH; curriculum development in hydrology/water resources, 2024).
-- Multiple travel awards (UCGIS, CIROH, AGU, AAG) and student paper recognitions.
+- Multiple travel awards (UCGIS, CAUSHI, CIROH, AGU, AAG) and student paper recognitions.
 
 ## 🌐Vision
 
