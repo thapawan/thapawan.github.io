@@ -81,13 +81,6 @@ Mentored graduate and undergraduate theses on topics ranging from urban heat isl
 
 I build reproducible, open, and scalable geospatial workflows that bridge research, survey and practice so agencies, NGOs, people and communities can anticipate hazards, prioritize mitigation, resilient and manage rivers and floodplains more effectively. I’m always open to collaborations at the intersection of Earth observation, Surveying, AI, and water.
 
-## Connect
-
-- Portfolio: https://thapawan.github.io/Portfolio/
-- Website: https://thapawan.github.io/
-- ORCID: https://orcid.org/0000-0002-4331-5315
-- Email: pthapa2@crimson.ua.edu
-
 ## 🏆 Achievements & Contributions
 
 [![Awards](https://img.shields.io/badge/Awards-🏆-gold)](https://github.com/thapawan/thapawan/blob/main/Awards.md)
