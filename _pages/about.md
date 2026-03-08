@@ -19,50 +19,74 @@ redirect_from:
 
 ## 🚀 About Me
 
-I'm a passionate PhD Candidate at the [Department of Geography and the Environment](https://geography.ua.edu/) at the [University of Alabama](https://www.ua.edu/), focusing on the fascinating intersection of Geographic Information Science (GIS), Remote Sensing, deep learning and Machine Learning to understand how rivers change over time.
+I'm a PhD Candidate at the [Department of Geography and the Environment](https://geography.ua.edu/) at the [University of Alabama](https://www.ua.edu/) (GPA 4.0). I work at the intersection of GIS, remote sensing, surveying, hydrology/geomorphology, and machine learning to understand how rivers evolve through time and how those dynamics affect flood risk, infrastructure, and ecosystems. My research integrates satellite SAR (Sentinel‑1), optical imagery, UAV sensing, DEM‑based terrain analysis, and AI/ML to extract river morphology, model inundation, flood resilience and monitor environmental change.
 
-My research focuses on river meander detection and classification using satellite imagery (including Sentinel-1 SAR) and deep learning workflows. I combine geomorphic metrics with spatial–temporal reasoning to analyze river dynamics, estimate channel characteristics, and support applications such as flood risk assessment, hydrological/hydraulic modeling, and environmental monitoring.
+I’m especially interested in automated river planform analysis—including centerline extraction, channel width estimation, and meander classification—using deep learning and Medial Axis Transform–based approaches. I complement image analytics with hydrologic and hydraulic modeling, building decision‑ready geospatial products and flood resilience applications for scientists, agencies, and communities.
 
-Before starting my PhD, I lectured at Kathmandu University, Nepal. I hold an M.Sc. in Geoinformatics from the University of Münster, Germany, and a background in geomatics engineering that continues to shape my approach to geospatial problem-solving.
+Before beginning my Ph.D., I lectured at Kathmandu University (Nepal) and previously served as Head of Department at Nepal Banepa Polytechnic Institute. I hold an M.Sc. in Geoinformatics (University of Münster, Germany) and a B.E. in Geomatics Engineering (Kathmandu University). Across academia and collaborative projects, my goal is to turn complex geospatial data into practical insight that supports risk reduction and resilient planning.
 
-## 🛠️ My Toolkit
+## 🛠️Research Focus
 
-**Programming Languages:**
-- 🐍 Python
-- 🌐 JavaScript
-- 📊 R
+- **River Morphodynamics & Flood Resilience:**
+Automated derivation of centerlines and widths; meander detection/classification; flood mapping and scenario analysis.
 
-**Key Areas of Expertise:**
-- 🗺️ GIS, Geospatial, Geomatics, Geoinformatics
-- 🛰️ Remote Sensing
-- 🤖 Machine Learning & Deep Learning
-- 🌊 River Analysis & Flood Modeling
 
-## 📂 Featured Projects
+- **AI/ML for Earth Observation:**
+Deep learning segmentation and classification, explainable ML, and scalable cloud pipelines for SAR/optical time series.
 
-- **[Medial Axis Transform Approach](https://github.com/thapawan/Medial-Axis-Transform):** Innovative methods for river centerline extraction.
-- **[Meander Classification using Machine Learning](https://github.com/thapawan/MeanderClassification):** Applying ML to classify river meanders.
-- **[Deep Learning Meander Classification](https://github.com/thapawan/DeepMeander):** Advanced classification with deep learning models.
-- **[CrossSections Extraction Visualization](https://github.com/thapawan/CrossSectionsExtractionVisualization):** Visualizing river cross-section data.
-- **[Deriving Morphological Information](https://github.com/thapawan/Deriving-Morphological-Information):** Extracting river morphology insights.
-- **[Flood Inundations](https://github.com/thapawan/Flood-Inundations):** Modeling and mapping flood inundation.
-- **[Integrated Information System](https://github.com/thapawan/IntegratedInformationSystem):** Building comprehensive information systems.
-- **[Image Segmentation](https://github.com/thapawan/ImageSegmentation):** Advanced image analysis techniques.
-- **[Satellite Overpass Predict](https://github.com/thapawan/SatelliteOverpassPredict):** Predicting satellite overpass times.
-- **[SWAT Modeling](https://github.com/thapawan/SWATModeling):** Hydrological modeling with SWAT.
 
-## 📦 Packages
+- **Hydrology & Hydraulics:**
+Linking remotely sensed change with hydrologic/hydraulic models to improve inundation forecasting and hazard assessment.
 
-- **[MMAT](https://github.com/thapawan/rasterMedialAxis/tree/main):** Python package for Medial Axis Transform.
-- **[MMATCWE](https://github.com/thapawan/raster_medial_axis):** Another robust Medial Axis Transform Python package.
 
-## 🌐 Applications
+- **UAV & Field Integration:**
+UAV multispectral/hyperspectral acquisitions; ground and boat‑based surveys (ADCP, YSI, ASD spectrometer, HYCAT) for calibration/validation.
 
-- **[MATGlobal](https://ee-pawanthapa42.projects.earthengine.app/view/matglobal):** Global Medial Axis Transform application.
-- **[MATCW](https://meanderclassify.users.earthengine.app/view/matcw):** Meander classification web application.
-- **[MCM](https://ee-pawanthapa42.projects.earthengine.app/view/mcw):** Meander classification model.
-- **[SlopeCurvature](https://meanderclassify.users.earthengine.app/view/slopecurvature):** Slope and curvature analysis tool.
-- **[Flood Morang](https://pawanthapa42.users.earthengine.app/view/flood-morang):** Flood analysis for Morang region.
+# Methods & Tools
+
+- **Software:**  ArcGIS Pro, ENVI, ERDAS IMAGINE, QGIS, HEC‑RAS, LISFLOOD‑FP, SWAT, Pix4D.
+- **Programming:** Python, R, JavaScript (including Google Earth Engine).
+- **Cloud/Compute:**  GEE, AWS, Azure, HPC workflows.
+- **Instruments:**  UAVs (licensed small UAS operator), LiDAR, DGPS, Total Station, ADCP (RS5), YSI, ASD spectrometer, HYCAT surface vehicle.
+
+## Selected Publications & Outputs (recent)
+
+- Enhanced river planform analysis using deep learning and Medial Axis Transform with Sentinel‑1A imagery, Earth Surface Processes & Landforms, 2025.
+- Drone in Hyperspectral Remote Sensing: Techniques and Applications, Geocarto International, 2025.
+- Operational Efficiency and Environmental Impact of UAV‑Based Vaccine Delivery in Remote Areas of Nepal, Next Research, 2025.
+- Book chapters and proceedings spanning flood resilience, UAVs, soil erosion modeling, COVID‑19 decision science, and river morphology
+- **More details:** [Publications](https://img.shields.io/badge/Publications-📑-darkblue).
+  
+## 📂 Teaching & Mentorship
+
+- **University of Alabama:** GY101/102 labs (atmospheric and earth‑surface processes); demonstrations in UAVs, GIS, surveying, remote sensing, AI.
+- **Kathmandu University:** Courses in GIS, UAVs, Remote Sensing, Web GIS, Spatial Data Infrastructure, Cadastre, Database & Geoinformation Modeling, and field surveying.
+Mentored graduate and undergraduate theses on topics ranging from urban heat islands to GEE‑based flood applications.
+- **GEO Network Mentorship:** Mentor underrepresnted people and society for education, learning, and research
+
+## 📦 Service & Community
+
+- **Peer Reviewer:** IEEE Transactions on Geoscience and Remote Sensing, Natural Hazards, PLOS ONE, and others.
+- **Technical Committees:** IEEE GRSS (Standards for Earth Observations, Quantum Earth Science & Technology), REACT.
+- **Outreach:** Esri YPN blog feature; GeoAwareness Week activities; volunteer field mapping for environmental and community projects.
+
+## Awards & Recognition
+- Graduate Council Fellowship, The University of Alabama (2026).
+- Outstanding Doctoral Graduate Research Award, Department of Geography & the Environment, UA (2026).
+- NASA/ASU Infiniscope award (interactive virtual field trip, 2025).
+- HydroLearn Fellowship (CIROH; curriculum development in hydrology/water resources, 2024).
+- Multiple travel awards (UCGIS, CIROH, AGU, AAG) and student paper recognitions.
+
+## 🌐Vision
+
+I build reproducible, open, and scalable geospatial workflows that bridge research, survey and practice so agencies, NGOs, people and communities can anticipate hazards, prioritize mitigation, resilient and manage rivers and floodplains more effectively. I’m always open to collaborations at the intersection of Earth observation, Surveying, AI, and water.
+
+## Connect
+
+- Portfolio: https://thapawan.github.io/Portfolio/
+- Website: https://thapawan.github.io/
+- ORCID: https://orcid.org/0000-0002-4331-5315
+- Email: pthapa2@crimson.ua.edu
 
 ## 🏆 Achievements & Contributions
 
