@@ -4,14 +4,10 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
-
+{% if site.author.portfolio %}
 <div class="wordwrap">
   You can also view my work on 
   <a href="https://thapawan.github.io/Portfolio/">my Portfolio</a>.
 </div>
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
 {% endfor %}
