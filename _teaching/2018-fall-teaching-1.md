@@ -1,16 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Head of Department/Instructor"
 collection: teaching
-type: "Diploma courses"
-permalink: /teaching/2019-fall-teaching-1
+type: "Diploma Courses"
+permalink: /teaching/2018-banepa-polytechnic
 venue: "Banepa Polytechnic Institute, Department of Geomatics Engineering"
 date: 2018-01-01
 location: "Banepa, Nepal"
 ---
-Courses
-======
-EG3105GE: Survey Project Management	(D)	2019.
-EG3102GE: Photogrammetry	(D)	2018.
-EG2205GE: Survey Computation and Adjustment	(D)	2017.
+
+Instruction focused on technical surveying competencies and photogrammetric principles for diploma-level engineering students.
+
+* **EG3105GE:** Survey Project Management
+* **EG3102GE:** Photogrammetry
+* **EG2205GE:** Survey Computation and Adjustment
 
 
