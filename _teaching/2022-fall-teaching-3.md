@@ -1,13 +1,14 @@
 ---
-title: "Teaching experience 3"
+title: "Instructor/Teaching Assitant"
 collection: teaching
-type: "Lab Instruction"
-permalink: /teaching/2022-fall-teaching-3
+type: "Undergraduate & graduate Courses"
+permalink: /teaching/2022-university-of-alabama
 venue: "University of Alabama, Department of Geography and the Environment"
-date: 2022-08-10
-location: "Tuscaloosa, USA"
+date: 2022-08-16
+location: "Tuscaloosa, AL, USA"
 ---
-Courses
-======
-GY101:Atmospheric Processes & Patterns
-GY102:Earth Surface Processes
+
+Guided students through fundamental geospatial and environmental concepts, focusing on hands-on laboratory exercises and data analysis.
+
+* **GY 101:** Atmospheric Processes & Patterns
+* **GY 102:** Earth Surface Processes
