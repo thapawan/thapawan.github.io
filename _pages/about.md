@@ -55,7 +55,7 @@ UAV multispectral/hyperspectral acquisitions; ground and boat‑based surveys (A
 - Drone in Hyperspectral Remote Sensing: Techniques and Applications, Geocarto International, 2025.
 - Operational Efficiency and Environmental Impact of UAV‑Based Vaccine Delivery in Remote Areas of Nepal, Next Research, 2025.
 - Book chapters and proceedings spanning flood resilience, UAVs, soil erosion modeling, COVID‑19 decision science, and river morphology
-- **More:** [Publications](https://img.shields.io/badge/Publications-📑-darkblue)
+- **More:** [![Publications](https://img.shields.io/badge/Publications-📑-darkblue)](https://github.com/thapawan/thapawan/blob/main/Research%20Papers.md)
   
 ## 📂 Teaching & Mentorship
 
