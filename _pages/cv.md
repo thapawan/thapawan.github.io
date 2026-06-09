@@ -23,18 +23,24 @@ Work experience
   * GY 102:Earth Surface Processes,
   * GIS and Remote Sensing
   * Research: River Meander Classification and Detection, Geomorphology, Remote Sensing, GIS, Machine Learning, Deep Learning, Flood Risk, Flood Resilience
-  * Supervisor: Dr. Lisa Davis 
+  * Supervisor: Dr. Lisa Davis
+
+* Summer 2026: Graduate Research Assistant
+  * University of Alabama
+  * Developed and implemented 1D and 2D hydraulic models to support river and floodplain analysis under steady and unsteady flow conditions.
+  * Analyzed and interpreted hydrologic and geomorphic datasets, integrating field observations, laboratory measurements, and GIS‑based workflows.
+  * Supported field campaigns and laboratory work, including data collection, quality control, and integration of survey and monitoring data into modeling frameworks.
 * Summer 2025: Graduate Research Assistant
   * University of Alabama
   * Hydraulic Modeling: Developed and calibrated HEC-RAS 2D models to simulate flood inundation and extents for Hurricane Helene in the Southern Appalachian watersheds.
-  * Geospatial Data Integration: Acquired and integrated diverse datasets, including DEMs, USGS gauge data, NHDPlus, SWORD, and satellite imagery (Landsat/Sentinel/Planet Lab).
+  * Geospatial Data Integration: Acquired and integrated diverse datasets, including DEMs, USGS gauge data, NHDPlus, SWORD, and satellite imagery. (Landsat/Sentinel/Planet Lab).
   * Vulnerability Analysis: Performed spatial analysis to couple flood maps with Social Vulnerability Index (SVI) data, identifying high-risk communities.
   * Drone Surveying: Conducted drone flight planning and data processing to create high-resolution imagery and a Digital Terrain Model (DTM).
   * Mapping & Visualization: Generated 1-foot contour maps and other project deliverables, including impact-based flood risk maps, for a reservoir feasibility study. 
 * Summer 2024: Graduate Teaching Assistant
   * University of Alabama
-  * Duties included: Teach Lab of GY102: Earth Surface Processes
-  * Hydrolearn Fellows: Develop course and attend conference
+  * Duties included: Teach Lab of GY102: Earth Surface Processes.
+  * Hydrolearn Fellows: Develop course and attend conference.
 * Summer 2023: Graduate Research Assistant
   * University of Alabama
   * Conduct lake and river surveys to collect water quality, bathymetry and flow data using ADCP, YSI multiparameter   sonde, ASD spectrometer, and HyCAT autonomous surface vehicle.
@@ -47,11 +53,11 @@ Work experience
   * Research: Remote Sensing, GIS, Geoinformatics, Geomatics Engineering
 * Nov 2018 - Nov 2019: Head of Department
   * Nepal Banepa Polytechnic Institute
-  * Teaching: GIS, Remote Sensing, Photogrammetry, Survey Project Management, Survey Computation and Adjustment, Field Survey
+  * Teaching: GIS, Remote Sensing, Photogrammetry, Survey Project Management, Survey Computation and Adjustment, Field Survey.
   * Research: Remote Sensing, GIS, Geomatics Engineering
 * Nov 2016 - Oct 2016: Trainee
   * International Training Center, Enschede, The Netherlands
-  * Research: Land Use, Web GIS, Mobile GIS, Remote Sensing, Geoinformatics, Climate Change Adaption
+  * Research: Land Use, Web GIS, Mobile GIS, Remote Sensing, Geoinformatics, Climate Change Adaption.
     
 Skills
 ======
