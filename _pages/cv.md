@@ -19,7 +19,7 @@ Work experience
 ======
 * Aug 2022- Current: PhD Candidate and Teaching Assistant
   * University of Alabama
-  * Graduate Teaching Assistant (Aug 2022- May 2026): Instruct GY 101: Atmospheric Processes & Patterns
+  * Instruct GY 101: Atmospheric Processes & Patterns
   * GY 102: Earth Surface Processes
   * UAVs, GIS and Remote Sensing
   * Research: River Meander Classification and Detection, Geomorphology, Remote Sensing, GIS, Machine Learning, Deep Learning, Flood Risk, Flood Resilience
