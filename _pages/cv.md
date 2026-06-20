@@ -68,6 +68,7 @@ Skills
   
 ### Softwares
 - [ArcGIS](https://www.youtube.com/watch?v=RtqLmo3qRuA&t=76s)
+- [AutoCAD]()
 - [ERDAS IMAGINE]()
 - [QGIS](https://qgis.org/download/)
 - [RSQ](https://www.xylem.com/en-us/products--services/analytical-instruments-and-equipment/data-collection-mapping-profiling-survey-systems/acoustic-doppler-profilers-adpadcp/rs5/)
