@@ -97,3 +97,4 @@ I build reproducible, open, and scalable geospatial workflows that bridge resear
 [![Blogs](https://img.shields.io/badge/Blogs-📑-darkgreen)](https://geoinformaticsexpert.blogspot.com/)
 [![Reviewer](https://img.shields.io/badge/Reviewers-🗣️-blue)](https://github.com/thapawan/thapawan/blob/main/Reviewer.md)
 [![Training](https://img.shields.io/badge/Trainings-🧠-lightgrey)](https://github.com/thapawan/thapawan/blob/main/Trainings.md)
+[![Media Outreach](https://img.shields.io/badge/Media_Outreach-📣-orange)](https://github.com/thapawan/thapawan/blob/main/Media%20Outreach.md)
